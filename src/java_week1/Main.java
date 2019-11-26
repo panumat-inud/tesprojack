@@ -32,7 +32,7 @@ public class Main {
 		String tel = "053-211-122-1111";
 		String[] sp = tel.split("-");
 		System.out.println("("+sp[0]+")"+sp[1]);
-		
+		System.out.println("Panumat");
 			
 			
 		
